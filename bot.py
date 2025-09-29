@@ -10,9 +10,10 @@
 - 智能合约部署测试
 - 随机全流程测试
 
-作者: GIWA Team
+作者: dongdong
 版本: v2.0
-GitHub: https://github.com/your-username/giwa-bridge-test
+GitHub: https://github.com/optimus-a1/giwa-bot
+推特：https://x.com/optimus_a1
 ================================================
 """
 
